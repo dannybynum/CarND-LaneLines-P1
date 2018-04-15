@@ -10,7 +10,8 @@ benefit of repetition by having to review it and rewrite somem of it all in one 
 
 [//]: # (Image References)
 
-[imagea]: ./test-images-output/PipeLine_Writeup_103.103.jpg "Grayscale"
+[imageA]: C:\Users\Bynum\Documents\Udacity\Term1\DWB-T1-P1\test-images-output\PipeLine_Writeup_103.103.jpg "Grayscale"
+
 
 ---
 
@@ -36,7 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][imagea]
+![Blured][imageA]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
