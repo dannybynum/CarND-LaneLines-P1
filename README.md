@@ -10,7 +10,7 @@ benefit of repetition by having to review it and rewrite somem of it all in one 
 
 [//]: # (Image References)
 
-[imageA]: C:\Users\Bynum\Documents\Udacity\Term1\DWB-T1-P1\test-images-output\PipeLine_Writeup_103.103.jpg "Grayscale"
+[imageA]: ./test-images-output/PipeLine_Writeup_103.103.jpg "Grayscale"
 
 
 ---
