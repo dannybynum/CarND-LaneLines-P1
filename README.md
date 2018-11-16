@@ -19,8 +19,6 @@ The course has videos and exercises that walk through examples of various comput
 
 ### 1. The project pipeline involves the following steps
 
-***Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.***
-
 _Step 0: Activate Environment and Notebook via Anaconda prompt_
 Basic commands entered are as follows:
 ```
@@ -85,7 +83,7 @@ The image below shows the output of step 3 - which is raw line segments drawn wi
 
 ![Image ROI and Raw Lines][imageC]
 
-_Step 4: Draw a two single continuous lines to represent the left and right lane lines_
+_Step 4: Draw two single continuous lines to represent the left and right lane lines_
 NOTE:  This is my description of how I improved the "draw lines" function, but I didn't put it inside a function.
 
 The applies some simple logic as it steps through each line defined by the Hough function:
